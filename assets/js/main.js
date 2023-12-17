@@ -1,5 +1,5 @@
-const form = document.querySelector("form");
-const myChart = document.querySelector("#myChart");
+// const form = document.querySelector("form");
+// const myChart = document.querySelector("#myChart");
 const select = document.querySelector("#selectMoneda");
 const input = document.querySelector("#moneda");
 const conversion = document.querySelector("#conversion");
